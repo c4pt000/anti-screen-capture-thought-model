@@ -19,3 +19,5 @@ Of screenshot capture
 
 
 Or the other possibility of 
+
+Like a trigger to block when dev video is called using a listener for kernel call at kernel or userspace level
