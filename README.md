@@ -21,3 +21,8 @@ Of screenshot capture
 Or the other possibility of 
 
 Like a trigger to block when dev video is called using a listener for kernel call at kernel or userspace level when out of bounds of permission of device allow for screenshot
+
+
+# BIG BLOCK
+
+![s1](https://raw.githubusercontent.com/c4pt000/anti-screen-capture-thought-model/main/Screenshot_20210817-064213-400.png)
